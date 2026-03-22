@@ -1,2 +1,8 @@
+asyncio
+logging
+sqlite3
+os
+json
+datetime
 python-telegram-bot[job-queue]==21.6
 aiohttp==3.10.5
