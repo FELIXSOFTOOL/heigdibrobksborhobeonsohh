@@ -39,7 +39,7 @@ from telegram.ext import (
 
 #  ⚙️  КОНФИГ — замени значения на свои
 BOT_TOKEN         = "8618473756:AAHd5YtYj4aXUkX_nflecef0oHHGPY0gh2o"
-ADMIN_IDS         = [8951922226, 6240808574, 8312584457, 7287854235]
+ADMIN_IDS         = [8951922226, 6240808574, 8312584457, 7397191468]
 CRYPTO_PAY_TOKEN  = "586269:AALZcpu9bE94ADYVW4b6GySpE50i0Stmph5"
 CRYPTO_PAY_API    = "https://pay.crypt.bot/api"   # Production
 # CRYPTO_PAY_API  = "https://testnet-pay.crypt.bot/api"  # Testnet
