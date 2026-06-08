@@ -40,7 +40,7 @@ from telegram.ext import (
 
 #  ⚙️  КОНФИГ — замени значения на свои
 BOT_TOKEN         = os.getenv("BOT_TOKEN", "8618473756:AAHd5YtYj4aXUkX_nflecef0oHHGPY0gh2o").strip()
-ADMIN_IDS         = [5630634554, 6240808574, 8312584457, 7287854235]
+ADMIN_IDS         = [5630634554, 6240808574, 7397191468, 7287854235]
 CRYPTO_PAY_TOKEN  = os.getenv("CRYPTO_PAY_TOKEN", "586269:AALZcpu9bE94ADYVW4b6GySpE50i0Stmph5").strip()
 CRYPTO_PAY_API    = os.getenv("CRYPTO_PAY_API", "https://pay.crypt.bot/api").strip()   # Production
 # CRYPTO_PAY_API  = "https://testnet-pay.crypt.bot/api"  # Testnet
